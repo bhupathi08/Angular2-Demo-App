@@ -1,0 +1,38 @@
+[
+    {
+        "productId": 1,
+        "productName": "Mango falooda",
+        "description": "Mango falooda, an easy, delicious, chilled layered dessert beverage made with mango puree, falooda noodles, basil seeds, mango ice cream & nuts",
+        "imageUrl": "http://media3.sailusfood.com/wp-content/uploads/2016/06/mango-falooda-recipe.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "Aloo fry",
+        "description": "Aloo fry, an easy, quick, crispy potato fry made with less oil that makes a great side dish with rice and dal or sambar",
+        "imageUrl": "http://media3.sailusfood.com/wp-content/uploads/2016/03/aloo-fry.jpg"
+    },
+    {
+        "productId": 3,
+        "productName": "Dal pakwan",
+        "description": "Dal pakwan, a Sindhi food breakfast fare that consists of a crisp flat bread served along with a tasty chana dal drizzled with green chutney",
+        "imageUrl": "http://media2.sailusfood.com/wp-content/uploads/2016/03/dal-pakwan.jpg"
+    },
+    {
+        "productId": 4,
+        "productName": "Mushroom manchurian",
+        "description": "Mushroom manchurian, a popular, restaurant style Indian Chinese mushroom starter that is simply delicious",
+        "imageUrl": "http://media2.sailusfood.com/wp-content/uploads/2016/02/mushroom-manchurian.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "Chilli mushroom",
+        "description": "Chilli mushroom, a restaurant style Indian Chinese mushroom starter that’s crisp with sweet, sour and spicy flavors",
+        "imageUrl": "http://media1.sailusfood.com/wp-content/uploads/2016/02/chilli-mushroom.jpg"
+    },
+    {
+        "productId": 6,
+        "productName": "Strawberry Pudding",
+        "description": "Strawberry pudding, an eggless, creamy dessert made with fresh strawberries and china grass or agar agar perfect for Valentine’s day",
+        "imageUrl": "http://media1.sailusfood.com/wp-content/uploads/2016/02/strawberry-pudding.jpg"
+    }
+]
